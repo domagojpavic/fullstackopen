@@ -1,1 +1,3 @@
-All about FullStackOpen Helsinki University, 2024
+## About
+FullStackOpen Helsinki University, 2024
+
